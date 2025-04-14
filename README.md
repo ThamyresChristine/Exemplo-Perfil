@@ -9,7 +9,7 @@ Estudando _Desenvolvimento de Sistemas_ na Proz Educação.
 - Web Design
 - Mobile
 - DataBases
-- IA e ML
+- IA e Machine Learning
 - Redes
 - Segurança da Informação
 
@@ -19,7 +19,7 @@ Estudando _Desenvolvimento de Sistemas_ na Proz Educação.
 
 ## Cursos:
 - Excel Intermediário - Escola Virtual Bradesco
-- Bootcamp _"Preencha aqui com o tema "_
+- Bootcamp _"Preencha aqui com o tema"_
 
 ## Hobbies:
 - Futebol 
